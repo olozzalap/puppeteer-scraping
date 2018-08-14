@@ -1,0 +1,20 @@
+{
+  "name": "puppeteer-scraping",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olozzalap/puppeteer-scraping.git"
+  },
+  "author": "Eben Palazzolo",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "bugs": {
+    "url": "https://github.com/olozzalap/puppeteer-scraping/issues"
+  },
+  "homepage": "https://github.com/olozzalap/puppeteer-scraping#readme",
+  "dependencies": {
+    "puppeteer": "^1.7.0"
+  }
+}
